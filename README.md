@@ -1,4 +1,4 @@
-UM vs. OSU FlappyBird Game in browser
+UM vs. OSU FlappyBird Game
 
 Created by Matt Cloutier at The University of Michigan
 

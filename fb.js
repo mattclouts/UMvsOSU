@@ -130,7 +130,7 @@ var deathAnimation = function(){
 var drawSky = function(){
 	var totWidth = 0;
 	while(totWidth < width){
-		ctx.drawImage(sky, totWidth, height - 800);
+		ctx.drawImage(sky, totWidth, height - 1100);
 		totWidth += sky.width;
 	}
 }

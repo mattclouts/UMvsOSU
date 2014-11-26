@@ -341,17 +341,17 @@ window.onload = function(){
 
             wxData = {
                 "appId": "",
-                "imgUrl" : 'http://shud.in/flappybird/images/logo.png',
+                "imgUrl" : 'http://mattclouts.github.io/UMvsOSU/images/bird.png',
                 "imgWidth": '200',
                 "imgHeight": '200',
-                "link" : 'http://shud.in/flappybird',
+                "link" : 'http://mattclouts.github.io/UMvsOSU/',
                 "desc" : 'Easy / Normal / Hard 三种难度, Flappy Bird 网页版',
-                "title" : "Flappy Bird"
+                "title" : "UM vs. OSU Flappy Bird"
             };
 
             var wxCallbacks = {
                 ready : function() {
-                    wxData["title"] = 'Flappy Bird';
+                    wxData["title"] = 'UM vs. OSU Flappy Bird';
                     if(flashlight_switch)
                         wxData["desc"] = '我刚刚开启 flashlight, 在 ' + ["easy", "normal", "hard"][playdata[0]] + ' 下取得 ' + playdata[1] + ' 分, 你也来试试吧！';
                     else

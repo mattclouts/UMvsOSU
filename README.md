@@ -1,3 +1,14 @@
+UM vs. OSU FlappyBird Game in browser
+
+Created by Matt Cloutier at The University of Michigan
+
+Note:  I do not own the rights to any images or sound present in game.
+
+Below is information about game engine/original code used to make this game.
+Special thanks to quietshu!
+
+ENJOY :)
+
 FlappyBird
 ==========
 
